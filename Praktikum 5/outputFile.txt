@@ -1,0 +1,36 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: Toko Maju
+Employee Name: NobbyDK
+Base Pay: $51000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $20.0/hr
+Total Sales in store: $100000.0
+Sales done: $55000.0
+Percentage of sales done: 55.00%
+Gross Payment: $59570.0
+Remaining store revenue: $26165.700000000008
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: Toko Maju
+Employee Name: Zidhan
+Base Pay: $10.0
+Number of Hours worked: 30.0hrs
+Payment Rate per hour: $15.0/hr
+Sales Rate: 1000.0%
+Total commission: $1.0
+Gross Payment: $461.0
+******************************************************
+Number of employees working as Part Time are: 1
+******************************************************
+Store Details: Toko Maju
+Employee Name: Cinta
+Base Pay: $40.0
+Number of Hours worked: 5.0hrs
+Payment Rate per hour: $10.0/hr
+Hours target per day : 4.0hrs
+Total commission: $0.0
+Gross Payment: $90.0

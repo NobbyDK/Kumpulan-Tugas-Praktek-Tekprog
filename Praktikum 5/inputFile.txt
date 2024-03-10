@@ -1,0 +1,22 @@
+Manager
+Toko Maju
+NobbyDK
+51000.00
+40.0
+20.0
+55000.0
+100000.0
+Sales Associate
+Toko Maju
+Zidhan
+10.0
+30.0
+15.0
+10.0
+Part Time
+Toko Maju
+Cinta
+40.0
+5.0
+10.0
+4.0
